@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/cucumber-reporting-3.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/junit5-0.15.1.jar"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/cucumber jvms/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/E Drive backup/profile/selenium driver/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
